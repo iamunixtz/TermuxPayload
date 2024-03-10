@@ -17,16 +17,8 @@ TermuxPayload is a collection of payloads designed to prank your friends when ex
 
 1. Clone the repository to your Termux environment:
     ```bash
-    git clone https://github.com/your-username/TermuxPayload.git
-    ```
-
-2. Navigate to the cloned directory:
-    ```bash
+    git clone https://github.com/iamunixtz/TermuxPayload.git
     cd TermuxPayload
-    ```
-
-3. Execute the payload script:
-    ```bash
     python payload.py
     ```
 
